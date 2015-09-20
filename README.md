@@ -1,3 +1,2 @@
 # monacogustavo.github.io
-Personal Blog 
-This is a blog!
+The place where I put the Unify theme I bought :) 
